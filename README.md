@@ -6,7 +6,7 @@ Santander’s Prestashop payment gateway module supports customer credit applica
 ## Current version
 * Version: 0.1.0
 * Release date: 2016-03-31
-* Platform: WooCommerce 1.6.1.4
+* Platform: Prestashop 1.6.1.4
 
 ## Requirements
 * PHP version 5.3.0 or greater.
